@@ -1,0 +1,42 @@
+#background{
+    background-image: linear-gradient(to left, rgb(72, 238, 38), blue);
+}
+#accessibilityicon{
+    float: left;
+    width: 20px;
+}
+#languageicon{
+    float: left;
+    width: 20px;
+}
+.aditionalfunctions{
+    text-transform: uppercase;
+    font-size: 13px;
+}
+#databox{
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    border: 2px;
+    border-color: black;
+    border-style: solid;
+}
+#selectors{
+    display: flex;
+    font-weight: bolder;
+    text-transform: uppercase;
+}
+#databoxlogin{
+    float: left;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+#databoxcadastro{
+    text-align: right;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+#textareas{
+    display: inline;
+}
